@@ -724,6 +724,8 @@ h1, h2, h3, h4, h5, h6 {
       color: #bbbbbb;
       line-height: 1.25;
       margin-bottom: 8px; }
+    .footer-menu a {
+      color: #bbbbbb; }
     .footer-menu li {
       font-family: "Roboto", sans-serif;
       font-size: 18px;
@@ -733,6 +735,8 @@ h1, h2, h3, h4, h5, h6 {
       margin-bottom: 3px; }
       .footer-menu li:last-child {
         margin-bottom: 0; }
+      .footer-menu li a {
+        color: #bbbbbb; }
     .footer-menu__link {
       color: #bbbbbb;
       display: -webkit-box;
